@@ -1,11 +1,11 @@
 ---
-title: Que la fuerza te acompañe
-published: 2024-05-01
+title: Todo lo que no sabías de Skeleton Crew
+published: 2025-01-17
 updated: 2024-11-29
-description: 'Read more about Markdown features in Fuwari'
-image: ''
-tags: [Demo, Example, Markdown, Fuwari]
-category: 'Examples'
+description: ¿Qué esconde Jod Na Nawood y por qué es tan imporante ese planeta?
+image: images/skeletoncrew.jpeg
+tags: [Jod Na Nawood]
+category: Skeleton Crew
 draft: false 
 ---
 

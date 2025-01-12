@@ -1,9 +1,9 @@
 ---
-title: Include Video in the Posts
-published: 2023-08-01
+title: Todo lo que no sabías de The Mandalorian
+published: 2023-04-24
 description: This post demonstrates how to include embedded video in a blog post.
-tags: [Example, Video]
-category: Examples
+tags: [Grogu]
+category: The Mandalorian
 draft: false
 ---
 

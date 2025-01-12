@@ -1,9 +1,9 @@
 ---
-title: Markdown Example
-published: 2023-10-01
+title: Todo lo que no sabías de The Book of Boba Fett
+published: 2022-02-11
 description: A simple example of a Markdown blog post.
-tags: [Markdown, Blogging, Demo]
-category: Examples
+tags: [Boba Fett]
+category: The Book of Boba Fett
 draft: false
 ---
 

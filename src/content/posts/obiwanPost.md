@@ -1,8 +1,8 @@
 ---
-title: Draft Example
-published: 2022-07-01
-tags: [Markdown, Blogging, Demo]
-category: Examples
+title: Todo lo que no sabías de Obi-Wan Kenobi
+published: 2022-06-25
+tags: [Obi-Wan]
+category: Obi-Wan Kenobi
 draft: true
 ---
 
